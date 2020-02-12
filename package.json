@@ -1,0 +1,35 @@
+{
+  "name": "messengerbot",
+  "version": "1.0.0",
+  "description": "A facebook messenger chatbot to assist everyday  business operations",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dialogflow": "^1.2.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charles0818/messengerbot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "facebook",
+    "chatbot",
+    "messenger",
+    "chatbot"
+  ],
+  "author": "Charles Omoregie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charles0818/messengerbot/issues"
+  },
+  "homepage": "https://github.com/Charles0818/messengerbot#readme"
+}
